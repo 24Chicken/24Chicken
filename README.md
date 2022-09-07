@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @24Chicken
-- 👀 I’m interested in blockchain tech, fintech and AI
-- 🌱 I’m currently learning foundations of coding
+- 👀 I’m interested in blockchain tech, fintech, AI, Big Data and NFT Technology
+- 🌱 I’m currently learning foundations of coding then transition into Data Science
 - 💞️ I’m looking to collaborate on blockchain development and AI development
 - 📫 How to reach me ...
 
