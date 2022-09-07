@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @24Chicken
-- 👀 I’m interested in blockchain tech, fintech and making this process easier for non-coders
+- 👀 I’m interested in blockchain tech, fintech and AI
 - 🌱 I’m currently learning foundations of coding
-- 💞️ I’m looking to collaborate on blockchain development
+- 💞️ I’m looking to collaborate on blockchain development and AI development
 - 📫 How to reach me ...
 
 <!---
